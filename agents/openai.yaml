@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Reset Credits"
+  short_description: "Check local Codex reset card expiry times"
+  default_prompt: "Use $codex-reset-credits to check my local Codex reset credit expiration times."
